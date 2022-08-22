@@ -5,8 +5,8 @@
 float flag = 1;
 float eyePosition[] = {00.0f, 40.0f, 70.0f};
 float spotPos[] = {-5.0f, 10.0f, 10.0f, 1.0f};
-GLfloat light_position[] = {0.0f, 0.0f, 0.0f};
-GLfloat light_ambient[]={0.3f, 0.3f, 0.3f, 1.0f};
+GLfloat light_position[] = {0.0f, 0.0f, 0.0f}; 
+GLfloat light_ambient[]={0.3f, 0.3f, 0.3f, 1.0f}; 
 GLfloat light_diffuse[]={0.3f, 0.3f, 0.3f, 1.0f};
 GLfloat light_specular[]={0.3f, 0.3f, 0.3f, 1.0f}; 
 float rotationView_Left_Right = 0.0f;
